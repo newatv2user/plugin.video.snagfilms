@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.snagfilms"
+       name="SnagFilms"
+       version="0.0.5"
+       provider-name="newatv2user">
+  <requires>
+	<import addon="xbmc.python" version="2.0"/>	
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Snagfilms: Watch Free Movies and Documentaries Online.</summary>
+    <description>SnagFilms.com offers the broadest collection of great independent movies you can watch right now, on demand, for free, and share with others – films that entertain and inform, engage and inspire, satisfy every taste, encourage discovery and create community.</description>
+    <platform>all</platform>
+	<disclaimer>Provided as is. No support available.</disclaimer>
+  </extension>
+</addon>

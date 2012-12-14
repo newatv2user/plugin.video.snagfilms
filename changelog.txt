@@ -1,0 +1,21 @@
+[B]Version 0.0.5[/B]
+
+- Default View Mode Settings (for confluence skin. thanks to divingmule)
+
+[B]Version 0.0.4[/B]
+
+- Some changes on directory listing and some clean ups.
+
+[B]Version 0.0.3[/B]
+
+- Differentiated folder vs non-folder listings.
+
+[B]Version 0.0.2[/B]
+
+- Some minor improvement.
+
+- Code clean-up.
+
+[B]Version 0.0.1[/B]
+
+- First test release.
